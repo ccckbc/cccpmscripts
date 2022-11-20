@@ -11,4 +11,7 @@
 #
 # By default this script does nothing.
 
+
+chown 100000:100000 /dev/net/tun
+
 exit 0
